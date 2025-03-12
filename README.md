@@ -19,5 +19,7 @@ Check out my **LinkedIn** account for more detailed information about my previou
 
 ## Other Skills
 
-During high school I also worked with Arduino & PLC for application in Industrial Automation, IoT and Micro Automation, learned LOGO!Soft, TIA Portal, KiCad & NI Multisim
+During high school I also worked with Arduino & PLC for application in industrial automation, embedded systems, micro automation, robotics and prototyping. 
+
+Learned LOGO!Soft, TIA Portal, KiCad & NI Multisim
 
