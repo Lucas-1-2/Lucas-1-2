@@ -2,7 +2,7 @@
 
 I'm a **student** @ University of Bologna, Computer Science and Engineering course - Cesena Campus. 
 
-I graduated in Electronics @ ITT G.Marconi - Forlì 
+High school leaving qualification in Electronics @ ITT G.Marconi - Forlì 
 
 Check out my **LinkedIn** account for more detailed information about my previous work experiences: 
 
