@@ -12,7 +12,7 @@ Check out my **LinkedIn** account for more detailed information about my previou
 ## Skills
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,c,cpp,bash,java,vscode,github,git,windows"/>
+  <img src="https://skillicons.dev/icons?i=arduino,c,cpp,bash,java,vscode,py,latex,github,git,windows"/>
   <br/>
   <sub>I'm still learning some of these – so please don't expect too much!</sub>
 </div>
